@@ -18,6 +18,7 @@ namespace Treinamento
         
         public void teste()
         {
+			var valeta = "TONTO";
         }
     }
 }
