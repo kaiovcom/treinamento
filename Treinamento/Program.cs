@@ -18,7 +18,7 @@ namespace Treinamento
         
         public void teste()
         {
-			var valeta = "TONTO";
+			var kaio = "Maravilha de Pessoa";
         }
     }
 }
