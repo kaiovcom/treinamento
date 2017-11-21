@@ -11,6 +11,13 @@ namespace Treinamento
         static void Main(string[] args)
         {
 
+            
+            
+            
+        }
+        
+        public void teste()
+        {
         }
     }
 }
